@@ -45,6 +45,6 @@ SOURCES += \
     $$PWD/mspack/szddd.c
 
 mac{
-    INCLUDEPATH += "osx"
+    INCLUDEPATH += "$$PWD/osx/"
     HEADERS += $$PWD/osx/config.h
 }

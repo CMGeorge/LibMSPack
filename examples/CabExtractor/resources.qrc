@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>PhotoNotes.CTX</file>
+        <file>SimpleDemo.CTX</file>
+    </qresource>
+</RCC>
